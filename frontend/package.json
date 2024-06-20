@@ -1,0 +1,33 @@
+{
+  "name": "vue2.7-vite-template",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@iconify-json/twemoji": "^1.1.5",
+    "@unocss/preset-attributify": "^0.44.1",
+    "@unocss/preset-icons": "^0.44.1",
+    "@unocss/preset-uno": "^0.44.1",
+    "unocss": "^0.44.1",
+    "vite": "^2.9.9",
+    "vite-plugin-mock": "^2.9.6"
+  },
+  "dependencies": {
+    "@vitejs/plugin-legacy": "^1.8.2",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "axios": "^0.27.2",
+    "mockjs": "^1.1.0",
+    "nprogress": "^0.2.0",
+    "pinia": "^2.0.16",
+    "unplugin-vue-components": "^0.21.1",
+    "vue": "2.7.6",
+    "vue-request": "2.0.0-rc.3",
+    "vue-router": "3.5.4",
+    "vxe-table": "3.8.7",
+    "xe-utils": "3.0.4"
+  }
+}
