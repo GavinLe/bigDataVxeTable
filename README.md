@@ -1,4 +1,4 @@
-# bigDataVxeTable 使用web woker + vxe-table 实现大屏数据展示
+# bigDataVxeTable 使用web woker + vxe-table 实现大数据量数据展示 
 
 ## 项目介绍
 
